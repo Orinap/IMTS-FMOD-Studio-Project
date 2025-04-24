@@ -63,6 +63,12 @@ sysinfo.txt
 *.unitypackage.meta
 *.app
 
+# FMOD studio (In folder FMOD)
+*.user
+*.unsaved
+*.cache
+*.restore
+
 # Crashlytics generated file
 crashlytics-build.properties
 
