@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{b542f5c9-fa32-4b3e-a05c-77f8332d4d44}">
+		<property name="name">
+			<value>ParkEndLoop</value>
+		</property>
+		<relationship name="folder">
+			<destination>{126618b5-74a5-47b7-ac33-7babca01361a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c79682f3-68ad-48f9-a79c-3cc3ab050f2e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c79682f3-68ad-48f9-a79c-3cc3ab050f2e}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
