@@ -8,7 +8,7 @@
 			<value>0</value>
 		</property>
 		<relationship name="folder">
-			<destination>{af6e6963-6260-407e-be75-c0f295615f19}</destination>
+			<destination>{815a1d2c-fa04-4b38-a262-5689e9afaa96}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{13c551ab-8b3b-4249-b961-6a46d03b28db}</destination>
@@ -92,7 +92,6 @@
 		<property name="length">
 			<value>2.1420408163265305</value>
 		</property>
-		<property name="name" />
 		<relationship name="audioFile">
 			<destination>{5a334c98-39a0-45fb-b5fe-652d72181b08}</destination>
 		</relationship>
