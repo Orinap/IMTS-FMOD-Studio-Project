@@ -185,10 +185,10 @@
 			<value>34.945578231292515</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>5000</value>
+			<value>2000</value>
 		</property>
 		<property name="spawnRate">
-			<value>8</value>
+			<value>10</value>
 		</property>
 		<relationship name="sound">
 			<destination>{f3db0442-ac60-425f-8239-497fc52b8a15}</destination>
@@ -331,10 +331,10 @@
 	</object>
 	<object class="SoundScatterer" id="{8bf894f9-3e3c-4776-8716-c3d3de1b8280}">
 		<property name="start">
-			<value>2.5</value>
+			<value>4</value>
 		</property>
 		<property name="length">
-			<value>32.445578231292515</value>
+			<value>30.945578231292515</value>
 		</property>
 		<property name="volume">
 			<value>-25</value>
@@ -821,7 +821,7 @@
 			<value>29.939655172413794</value>
 		</property>
 		<property name="value">
-			<value>-14.5</value>
+			<value>-15.5</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{9dcf938d-1757-4c06-b205-881a449c326b}">
