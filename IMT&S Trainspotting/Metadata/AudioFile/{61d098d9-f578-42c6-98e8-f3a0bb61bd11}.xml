@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{61d098d9-f578-42c6-98e8-f3a0bb61bd11}">
+		<property name="assetPath">
+			<value>Levi F - Fuck it I'm doing it.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.4289795918367347</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8057b4f6-e213-4a23-9bb6-9b600866df3b}</destination>
+		</relationship>
+	</object>
+</objects>
