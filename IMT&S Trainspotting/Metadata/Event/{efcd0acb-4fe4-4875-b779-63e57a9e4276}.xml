@@ -139,10 +139,10 @@
 			<value>true</value>
 		</property>
 		<property name="wetMix">
-			<value>56.5</value>
+			<value>37</value>
 		</property>
 		<property name="decayTime">
-			<value>2500</value>
+			<value>2000</value>
 		</property>
 	</object>
 	<object class="LowpassEffect" id="{b01b8d6f-00ea-4fa4-9504-70c13f0f3c6e}">
