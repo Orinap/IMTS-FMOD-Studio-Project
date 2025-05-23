@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{869b4a10-867e-456f-81cb-f4c1bf7cefcc}">
+		<property name="assetPath">
+			<value>Levi F - Are you taking it Robin_.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1261451247165533</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8057b4f6-e213-4a23-9bb6-9b600866df3b}</destination>
+		</relationship>
+	</object>
+</objects>

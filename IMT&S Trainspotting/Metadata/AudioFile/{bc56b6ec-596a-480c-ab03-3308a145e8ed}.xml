@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{bc56b6ec-596a-480c-ab03-3308a145e8ed}">
+		<property name="assetPath">
+			<value>Kurt - Thought I was gonna be tripping alone.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.3800453514739228</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8057b4f6-e213-4a23-9bb6-9b600866df3b}</destination>
+		</relationship>
+	</object>
+</objects>
