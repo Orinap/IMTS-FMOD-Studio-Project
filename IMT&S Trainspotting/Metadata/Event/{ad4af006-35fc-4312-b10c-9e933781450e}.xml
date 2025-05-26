@@ -140,7 +140,10 @@
 			<value>true</value>
 		</property>
 		<property name="lowGain">
-			<value>6</value>
+			<value>5.5</value>
+		</property>
+		<property name="highGain">
+			<value>3.5</value>
 		</property>
 	</object>
 	<object class="HighpassEffect" id="{dd2a0d03-55c0-47aa-b643-0b2c6c080035}">
