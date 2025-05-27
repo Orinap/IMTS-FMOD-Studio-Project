@@ -98,7 +98,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{4e30468f-d758-41ed-8115-fab7ffc9ae78}">
 		<property name="volume">
-			<value>5.5</value>
+			<value>-2</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -115,12 +115,10 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{d7346851-1752-4c10-b52a-69ca07d2cf60}">
 		<relationship name="effects">
-			<destination>{69964f28-f06f-4484-bf8b-506da754c87e}</destination>
 			<destination>{9dbc5468-feff-4f1c-bf20-eb4d0bda2316}</destination>
-			<destination>{5bd2502e-df24-4b47-85d8-965c64581cf4}</destination>
-			<destination>{c9e0e6b9-0995-46ba-85a2-69b9267088f9}</destination>
-			<destination>{b613544e-3bbf-4321-96e9-4cc5a94aa1ec}</destination>
-			<destination>{dcb6d847-4845-4ee6-935c-e6cca5b07af9}</destination>
+			<destination>{b690cdd1-3123-4a3c-831f-fafa38df4d7b}</destination>
+			<destination>{b7ab9106-fbcd-46a8-9de1-af2d89baecd4}</destination>
+			<destination>{399cacfe-36bd-4b7b-8e50-fc91f4a6578c}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{b463ad0e-0af7-4aaf-88f4-934293ccd37c}" />
@@ -131,57 +129,26 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{9fdd68dd-26b8-448d-92fb-6ef9a2749b5a}" />
-	<object class="PitchShifterEffect" id="{69964f28-f06f-4484-bf8b-506da754c87e}">
-		<property name="pitch">
-			<value>1</value>
-		</property>
-	</object>
 	<object class="MixerBusFader" id="{9dbc5468-feff-4f1c-bf20-eb4d0bda2316}" />
-	<object class="SFXReverbEffect" id="{5bd2502e-df24-4b47-85d8-965c64581cf4}">
-		<property name="wetDryEnabled">
-			<value>true</value>
+	<object class="SFXReverbEffect" id="{b690cdd1-3123-4a3c-831f-fafa38df4d7b}">
+		<property name="wetLevel">
+			<value>-80</value>
 		</property>
-		<property name="wetMix">
-			<value>19.5</value>
-		</property>
-		<property name="decayTime">
-			<value>2000</value>
-		</property>
-		<property name="highCut">
-			<value>1000</value>
-		</property>
-	</object>
-	<object class="LowpassEffect" id="{c9e0e6b9-0995-46ba-85a2-69b9267088f9}">
-		<property name="cutoff">
-			<value>1950</value>
-		</property>
-		<property name="resonance">
-			<value>1.39999998</value>
-		</property>
-	</object>
-	<object class="ThreeEQEffect" id="{b613544e-3bbf-4321-96e9-4cc5a94aa1ec}">
-		<property name="lowGain">
-			<value>-5</value>
-		</property>
-		<property name="midGain">
-			<value>8</value>
-		</property>
-		<property name="highGain">
+		<property name="dryLevel">
 			<value>10</value>
 		</property>
 	</object>
-	<object class="CompressorEffect" id="{dcb6d847-4845-4ee6-935c-e6cca5b07af9}">
-		<property name="threshold">
-			<value>-20.5</value>
+	<object class="ThreeEQEffect" id="{b7ab9106-fbcd-46a8-9de1-af2d89baecd4}">
+		<property name="lowGain">
+			<value>10</value>
 		</property>
-		<property name="ratio">
-			<value>4.5999999</value>
+	</object>
+	<object class="MultibandEqEffect" id="{399cacfe-36bd-4b7b-8e50-fc91f4a6578c}">
+		<property name="frequencyA">
+			<value>1314.21655</value>
 		</property>
-		<property name="attackTime">
-			<value>92</value>
-		</property>
-		<property name="releaseTime">
-			<value>70</value>
+		<property name="qualityA">
+			<value>0.974517226</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{3758fd9a-f08d-4ae7-962b-c4d98f42ce65}" />
