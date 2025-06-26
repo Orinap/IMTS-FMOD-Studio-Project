@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ec7de712-1a8a-40b1-a0af-3b1024ab1d17}">
+		<property name="assetPath">
+			<value>Voicelines/Narrator/Don't worry, we'll be fine (hopefully).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.8118820861678007</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8057b4f6-e213-4a23-9bb6-9b600866df3b}</destination>
+		</relationship>
+	</object>
+</objects>

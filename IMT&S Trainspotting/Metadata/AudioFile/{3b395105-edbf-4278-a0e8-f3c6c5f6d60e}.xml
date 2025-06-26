@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3b395105-edbf-4278-a0e8-f3c6c5f6d60e}">
 		<property name="assetPath">
-			<value>Fireflies.wav</value>
+			<value>Miscellaneous/Ambience/Fireflies.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

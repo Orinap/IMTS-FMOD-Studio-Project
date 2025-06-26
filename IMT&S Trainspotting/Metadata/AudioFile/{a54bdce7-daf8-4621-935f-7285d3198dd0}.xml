@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a54bdce7-daf8-4621-935f-7285d3198dd0}">
 		<property name="assetPath">
-			<value>765001__catdit__nighttime_ambience_crickets(1).wav</value>
+			<value>Miscellaneous/Ambience/765001__catdit__nighttime_ambience_crickets(1).wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

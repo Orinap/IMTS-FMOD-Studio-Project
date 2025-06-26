@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{bce22a7a-0ad9-4c05-b9ad-a9758af7385b}">
 		<property name="assetPath">
-			<value>Kurt - Gotta get something from the trunk.wav</value>
+			<value>Voicelines/Kurt/Kurt - Gotta get something from the trunk.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

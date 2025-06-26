@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{eddb8eab-e1bf-487a-a8c1-d39bd4619e6d}">
 		<property name="assetPath">
-			<value>Levi F - This is so cool.wav</value>
+			<value>Voicelines/Lisette/Levi F - This is so cool.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

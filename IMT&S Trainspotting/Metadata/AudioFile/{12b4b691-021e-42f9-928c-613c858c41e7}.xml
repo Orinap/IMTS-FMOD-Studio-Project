@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{12b4b691-021e-42f9-928c-613c858c41e7}">
 		<property name="assetPath">
-			<value>Kurt - Kurt hyped.wav</value>
+			<value>Voicelines/Kurt/Kurt - Kurt hyped.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

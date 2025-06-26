@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d030ec34-79d9-4bc7-bc63-f1d6b408c0cc}">
 		<property name="assetPath">
-			<value>322129__vacuumfan7072__car-horns.wav</value>
+			<value>Miscellaneous/Car/322129__vacuumfan7072__car-horns.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

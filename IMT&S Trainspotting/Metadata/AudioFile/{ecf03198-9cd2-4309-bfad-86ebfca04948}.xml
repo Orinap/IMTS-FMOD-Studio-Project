@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ecf03198-9cd2-4309-bfad-86ebfca04948}">
 		<property name="assetPath">
-			<value>92654__cgeffex__wind-blowing-through-trees.mp3</value>
+			<value>Miscellaneous/Ambience/92654__cgeffex__wind-blowing-through-trees.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

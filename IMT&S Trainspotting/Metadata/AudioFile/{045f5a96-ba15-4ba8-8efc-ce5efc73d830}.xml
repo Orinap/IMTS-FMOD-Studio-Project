@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{045f5a96-ba15-4ba8-8efc-ce5efc73d830}">
 		<property name="assetPath">
-			<value>Kurt - Woah 2.wav</value>
+			<value>Voicelines/Kurt/Kurt - Woah 2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
